@@ -26,7 +26,7 @@ public class AddtionServlet extends HttpServlet {
 		//out.println("<h1>Result :"+ result+"<h1>");
 		out.println(Add(number1,number2));
 	}
-	
+	//Add
 	public String Add(String number1, String number2)
 	{
 		try{
